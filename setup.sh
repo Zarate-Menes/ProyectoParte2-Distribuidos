@@ -23,6 +23,5 @@ echo "  ✓ directorios listos"
 
 # ── listo ─────────────────────────────────────────────────────────────────────
 
-echo ""
-echo "=== VM${HOST_ID} lista ==="
+
 echo "Iniciar nodo: go run ./cmd"

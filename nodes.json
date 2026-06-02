@@ -1,7 +1,7 @@
 {
   "master_id": 1,
   "nodes": [
-    { "id": 1, "name": "sucursal1", "host": "9.09878.7", "port": 5001 },
+    { "id": 1, "name": "sucursal1", "host": "192.168.80.129", "port": 5001 },
     { "id": 2, "name": "sucursal2", "host": "localhost", "port": 5002 },
     { "id": 3, "name": "sucursal3", "host": "localhost", "port": 5003 },
     { "id": 4, "name": "sucursal4", "host": "localhost", "port": 5004 }
