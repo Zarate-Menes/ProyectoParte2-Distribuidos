@@ -1,0 +1,8 @@
+logs/
+messages/
+CLAUDE.md
+data/
+nodes-vm*.json
+nodes.json
+setup-vm*.sh
+PENDIENTES.md

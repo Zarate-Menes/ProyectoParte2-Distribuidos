@@ -1,0 +1,40 @@
+{
+  "ingenieros": [
+    { "id": 10000000001, "nombre": "Carlos Ruiz",    "sucursal_id": 1 },
+    { "id": 10000000002, "nombre": "María López",    "sucursal_id": 1 },
+    { "id": 20000000001, "nombre": "Juan García",    "sucursal_id": 2 },
+    { "id": 20000000002, "nombre": "Ana Torres",     "sucursal_id": 2 },
+    { "id": 30000000001, "nombre": "Luis Hernández", "sucursal_id": 3 },
+    { "id": 30000000002, "nombre": "Rosa Sánchez",   "sucursal_id": 3 },
+    { "id": 40000000001, "nombre": "Pedro Martínez", "sucursal_id": 4 },
+    { "id": 40000000002, "nombre": "Laura Jiménez",  "sucursal_id": 4 }
+  ],
+  "usuarios": [
+    { "id": 10000000003, "nombre": "Alfonso Vega",   "sucursal_id": 1 },
+    { "id": 10000000004, "nombre": "Beatriz Mora",   "sucursal_id": 1 },
+    { "id": 10000000005, "nombre": "César Díaz",     "sucursal_id": 1 },
+    { "id": 20000000003, "nombre": "Diana Cruz",     "sucursal_id": 2 },
+    { "id": 20000000004, "nombre": "Eduardo Ramos",  "sucursal_id": 2 },
+    { "id": 20000000005, "nombre": "Fernanda Reyes", "sucursal_id": 2 },
+    { "id": 30000000003, "nombre": "Gustavo Ríos",   "sucursal_id": 3 },
+    { "id": 30000000004, "nombre": "Helena Vargas",  "sucursal_id": 3 },
+    { "id": 30000000005, "nombre": "Ignacio Flores", "sucursal_id": 3 },
+    { "id": 40000000003, "nombre": "Jesica Ortega",  "sucursal_id": 4 },
+    { "id": 40000000004, "nombre": "Kevin Castillo", "sucursal_id": 4 },
+    { "id": 40000000005, "nombre": "Lorena Méndez",  "sucursal_id": 4 }
+  ],
+  "dispositivos": [
+    { "id": 10000000006, "nombre": "PC-S1-01",        "tipo": "PC",        "sucursal_id": 1, "ingeniero_id": 10000000001 },
+    { "id": 10000000007, "nombre": "Laptop-S1-01",    "tipo": "Laptop",    "sucursal_id": 1, "ingeniero_id": 10000000001 },
+    { "id": 10000000008, "nombre": "Impresora-S1-01", "tipo": "Impresora", "sucursal_id": 1, "ingeniero_id": 10000000002 },
+    { "id": 20000000006, "nombre": "PC-S2-01",        "tipo": "PC",        "sucursal_id": 2, "ingeniero_id": 20000000001 },
+    { "id": 20000000007, "nombre": "Servidor-S2-01",  "tipo": "Servidor",  "sucursal_id": 2, "ingeniero_id": 20000000001 },
+    { "id": 20000000008, "nombre": "Laptop-S2-01",    "tipo": "Laptop",    "sucursal_id": 2, "ingeniero_id": 20000000002 },
+    { "id": 30000000006, "nombre": "PC-S3-01",        "tipo": "PC",        "sucursal_id": 3, "ingeniero_id": 30000000001 },
+    { "id": 30000000007, "nombre": "Impresora-S3-01", "tipo": "Impresora", "sucursal_id": 3, "ingeniero_id": 30000000001 },
+    { "id": 30000000008, "nombre": "Laptop-S3-01",    "tipo": "Laptop",    "sucursal_id": 3, "ingeniero_id": 30000000002 },
+    { "id": 40000000006, "nombre": "Servidor-S4-01",  "tipo": "Servidor",  "sucursal_id": 4, "ingeniero_id": 40000000001 },
+    { "id": 40000000007, "nombre": "PC-S4-01",        "tipo": "PC",        "sucursal_id": 4, "ingeniero_id": 40000000001 },
+    { "id": 40000000008, "nombre": "Laptop-S4-01",    "tipo": "Laptop",    "sucursal_id": 4, "ingeniero_id": 40000000002 }
+  ]
+}
